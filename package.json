@@ -1,0 +1,15 @@
+{
+  "name": "translit-russian",
+  "version": "0.0.1",
+  "description": "Transliteration map for russian language",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/eldargab/translit-russian.git"
+  },
+  "keywords": [
+    "transliterate",
+    "russian"
+  ],
+  "author": "Eldar Gabdullin <eldargab@gmail.com>",
+  "license": "MIT"
+}
