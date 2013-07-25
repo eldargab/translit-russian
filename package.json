@@ -1,6 +1,6 @@
 {
   "name": "translit-russian",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Transliteration map for russian language",
   "repository": {
     "type": "git",
